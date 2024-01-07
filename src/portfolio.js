@@ -544,7 +544,7 @@ const experience = {
           "title": "Intern Information Technology",
           "company": "Shree Ganesh Enterprises Pune",
           "company_url": "https://www.linkedin.com/company/shree-ganesh-enterprises-pune/about/",
-          "logo_path": "freecopy_logo.png",
+          "logo_path": "freecopy_logo.jpg",
           "duration": "Jun 2021 - May 2022",
           "location": "Pune, India",
           "description": [
