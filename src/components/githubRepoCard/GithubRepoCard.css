@@ -78,7 +78,10 @@
 .repo-details {
   display: flex;
   flex-direction: row;
+  justify-content: center; /* Align items horizontally to center */
+  align-items: center; /* Align items vertically to center */
 }
+
 
 .repo-creation-date {
   margin: 0;

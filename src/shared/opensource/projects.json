@@ -1,116 +1,246 @@
 {
-  "data": [
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "masterPortfolio",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "url": "https://github.com/ashutosh1919/masterPortfolio",
-      "description": "🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "Dockerfile",
-          "iconifyClass": "simple-icons:docker"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOG_vYHA",
-      "name": "explainable-cnn",
-      "createdAt": "2022-03-13T20:41:33Z",
-      "url": "https://github.com/ashutosh1919/explainable-cnn",
-      "description": "📦 PyTorch based visualization package for generating layer-wise explanations for CNNs.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOG0_8uQ",
-      "name": "react-awesome-shapes",
-      "createdAt": "2022-02-11T14:50:20Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-shapes",
-      "description": "🌀 Insert Awesome Shapes into Your React Site with Ease.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOGcPKSQ",
-      "name": "neuro-symbolic-sudoku-solver",
-      "createdAt": "2021-11-26T17:56:07Z",
-      "url": "https://github.com/ashutosh1919/neuro-symbolic-sudoku-solver",
-      "description": "⚙️ Solving sudoku using Deep Reinforcement learning in combination with powerful symbolic representations.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkzMjcyMjI5Njk=",
-      "name": "react-awesome-loaders",
-      "createdAt": "2021-01-06T06:36:41Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-loaders",
-      "description": "🚀  High quality, super responsive and completely customisable Loading Animations to insert into your website with single line of code.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
-      "name": "react-liquidswipe",
-      "createdAt": "2021-01-01T08:31:51Z",
-      "url": "https://github.com/ashutosh1919/react-liquidswipe",
-      "description": "🚀 Smooth Liquid Swipe Animation to transition between different components.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        }
-      ]
-    }
-  ]
-}
+    "data": [
+      {
+        "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+        "name": "Content Based Movie Recommendation System",
+        "createdAt": "2020-03-06T16:26:54Z",
+        "url": "https://github.com/sejal1011/Movie-Recommendation-System",
+        "description": "🔥 An innovative tool combining content-based algorithms and sentiment analysis to offer personalized movie recommendations, elevating your movie-watching experience with smart, emotionally resonant suggestions.",
+        "isFork": false,
+        "languages": [
+          {
+            "name": "API",
+            "iconifyClass": "eos-icons:api"
+          },
+          {
+            "name": "scikit",
+            "iconifyClass": "devicon:scikitlearn"
+          },
+          {
+            "name": "JavaScript",
+            "iconifyClass": "logos-javascript"
+          },
+          {
+            "name": "Python",
+            "iconifyClass": "logos-python"
+          },
+          {
+            "name": "API",
+            "iconifyClass": "eos-icons:api"
+          }
+        ]
+      },
+      {
+        "id": "R_kgDOG_vYHA",
+        "name": "Data Analytics Projects",
+        "createdAt": "2022-03-13T20:41:33Z",
+        "url": "https://sites.google.com/view/sejal-maniyar-projects/home",
+        "description": "📊 It showcases a range of projects focusing on Exploratory Data Analysis (EDA), data visualization using PowerBI, and SQL database management. These projects include the creation of star schemas and entity-relationship (ER) models through SQL queries.",
+        "isFork": false,
+        "languages": [
+          {
+            "name": "Python",
+            "iconifyClass": "logos-python"
+          },
+          {
+            "name": "PowerBI",
+            "iconifyClass": "simple-icons:powerbi"
+          },
+          {
+            "name":"PostgreSQL",
+            "iconifyClass": "logos:postgresql"
+  
+          },
+          {
+            "name":"MySQL",
+            "iconifyClass": "logos:mysql"
+  
+          }
+        ]
+      },
+      {
+        "id": "R_kgDOG0_8uQ",
+        "name": "Customer Churn Prediction",
+        "createdAt": "2022-02-11T14:50:20Z",
+        "url": "https://github.com/sejal1011/Customer_Churn_Prediction",
+        "description": "🌀 This study delves into predicting and understanding customer churn in the telecom sector, utilizing advanced data mining techniques and machine learning models to provide strategic insights for enhancing customer retention.",
+        "isFork": false,
+        "languages": [
+          {
+            "name": "Python",
+            "iconifyClass": "logos-python"
+          },
+          {
+            "name": "Numpy",
+            "iconifyClass": "logos:numpy"
+          },
+          {
+            "name": "Pandas",
+            "iconifyClass": "devicon:pandas-wordmark"
+          },
+          {
+            "name": "Matplotlib",
+            "iconifyClass": "logos:matplotlib-icon"
+          }
+        ]
+      },
+      {
+        "id": "R_kgDOGcPKSQ",
+        "name": "Deploying a Reddit Clone App on K8s",
+        "createdAt": "2021-11-26T17:56:07Z",
+        "url": "https://medium.com/@sejalmaniyar9/deploy-a-reddit-copy-on-kubernetes-with-ingress-enabled-4b5f7964632a",
+        "description": "⚙️ This project demonstrates deploying a Reddit Clone App on a Kubernetes cluster, leveraging AWS EC2 and Kubeatm. It focuses on the end-to-end process, from establishing the Kubernetes environment to configuring Ingress for external access, ensuring a seamless and efficient deployment.",
+        "isFork": false,
+        "languages": [
+          {
+            "name": "Python",
+            "iconifyClass": "logos-python"
+          },
+          {
+            "name": "Kubernetes",
+            "iconifyClass": "logos:kubernetes"
+          },
+          {
+            "name": "Docker",
+            "iconifyClass": "logos:docker-icon"
+          },
+          {
+            "name": "aws",
+            "iconifyClass": "logos:aws"
+          },
+          {
+            "name": "reddit",
+            "iconifyClass": "logos:reddit"
+          }
+  
+        ]
+      },
+      {
+        "id": "MDEwOlJlcG9zaXRvcnkzMjcyMjI5Njk=",
+        "name": "Tokyo Olympics Azure Project",
+        "createdAt": "2021-01-06T06:36:41Z",
+        "url": "https://github.com/sejal1011/Data-Engineering-Project",
+        "description": "🚀 Utilizing Azure Databricks, Azure Synapse Analytics, Power BI, and Azure Data Factory, this project integrates, processes, and visualizes comprehensive data from the Tokyo Olympic Games.",
+        "isFork": false,
+        "languages": [
+          {
+            "name": "Azure",
+            "iconifyClass": "devicon:azure"
+          },
+          {
+            "name": "PowerBI",
+            "iconifyClass": "simple-icons:powerbi"
+          }
+        ]
+      },
+      {
+        "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
+        "name": "COVID-19 Detection using Chest X-Ray",
+        "createdAt": "2021-01-01T08:31:51Z",
+        "url": "https://github.com/sejal1011/COVID-19-Detection-using-Chest-X-Ray/tree/main",
+        "description": "🏥This project harnesses DenseNet169 within a deep learning framework to accurately classify chest X-ray images, focusing on detecting COVID-19, and incorporates extensive data processing and analysis techniques in a Kaggle environment.",
+        "isFork": false,
+        "languages": [
+          {
+            "name": "Pytorch",
+            "iconifyClass": "logos:pytorch"
+          },
+          {
+            "name": "kaggle",
+            "iconifyClass": "simple-icons:kaggle"
+          },
+          {
+            "name": "Matplotlib",
+            "iconifyClass": "logos:matplotlib-icon"
+          },
+          {
+            "name": "Numpy",
+            "iconifyClass": "logos:numpy"
+          }
+
+        ]
+      },
+      {
+        "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
+        "name": "Single Cluster Monitoring on AWS",
+        "createdAt": "2021-01-01T08:31:51Z",
+        "url": "https://medium.com/@sejalmaniyar9/mastering-single-cluster-monitoring-a-deep-dive-into-prometheus-grafana-cadvisor-and-node-2cd076b20870",
+        "description": " 🛠️ This project expertly integrates Prometheus, Grafana, cAdvisor, and Node Exporter with Docker Compose to create a sophisticated monitoring solution for single cluster environments on AWS, offering detailed insights into system and container performance.",
+        "isFork": false,
+        "languages": [
+          {
+            "name": "aws",
+            "iconifyClass": "logos:aws"
+          },
+          {
+            "name": "prometheus",
+            "iconifyClass": "devicon:prometheus-wordmark"
+          },
+          {
+            "name": "Grafana",
+            "iconifyClass": "devicon:grafana-wordmark"
+          },
+          {
+            "name": "Docker",
+            "iconifyClass": "logos:docker-icon"
+          }
+
+        ]
+      },
+      {
+        "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
+        "name": "Deploying a Docker Image to AWS EKS",
+        "createdAt": "2021-01-01T08:31:51Z",
+        "url": "https://medium.com/@sejalmaniyar9/deploying-a-docker-image-to-aws-eks-504f4fec6fee",
+        "description": " 📋 This project adeptly demonstrates deploying a Docker image to AWS EKS, utilizing Terraform for infrastructure provisioning, ECR for Docker image storage, IAM for AWS access control, and kubectl for cluster management.",
+        "isFork": false,
+        "languages": [
+          {
+            "name": "aws",
+            "iconifyClass": "logos:aws"
+          },
+          {
+            "name": "nginx",
+            "iconifyClass": "devicon:nginx"
+          },
+          {
+            "name": "Terraform",
+            "iconifyClass": "vscode-icons:file-type-terraform"
+          },
+          {
+            "name": "Docker",
+            "iconifyClass": "logos:docker-icon"
+          }
+
+        ]
+      },
+      {
+        "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
+        "name": "Jenkins Declarative Pipelines: From GitHub to DockerHub",
+        "createdAt": "2021-01-01T08:31:51Z",
+        "url": "https://medium.com/@sejalmaniyar9/building-a-declarative-pipeline-in-jenkins-1885a209c291",
+        "description": " 🌟 It demonstrates the seamless integration of Jenkins Declarative Pipelines for CI/CD, automating the workflow from GitHub code commits to DockerHub deployments, showcasing streamlined development and deployment processes. ",
+        "isFork": false,
+        "languages": [
+          {
+            "name": "aws",
+            "iconifyClass": "logos:aws"
+          },
+          {
+            "name": "GitHuB",
+            "iconifyClass": "devicon:github"
+          },
+          {
+            "name": "Jenkins",
+            "iconifyClass": "devicon:jenkins"
+          },
+          {
+            "name": "Docker",
+            "iconifyClass": "logos:docker-icon"
+          }
+
+        ]
+      }
+    ]
+  }
+  

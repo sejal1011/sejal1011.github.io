@@ -35,7 +35,6 @@
 
 ✔️ Summary and About me\
 ✔️ Skills \
-✔️ Open Source Projects Connected with Github\
 ✔️ Experience\
 ✔️ Certifications 🏆\
 ✔️ Blogs\
