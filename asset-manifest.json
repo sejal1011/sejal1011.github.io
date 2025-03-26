@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.8cc88551.css",
-    "main.js": "/static/js/main.aad79dc0.js",
-    "static/media/sejal.png": "/static/media/sejal.17e4e409dd01d9405176.png",
+    "main.css": "/static/css/main.2705c400.css",
+    "main.js": "/static/js/main.6820ef6c.js",
     "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.9fa614346b4e81decc62.svg",
-    "static/media/work-ex.svg": "/static/media/work-ex.cc52a8b427f08cafaba3ca01490c1995.svg",
+    "static/media/work-ex.svg": "/static/media/work-ex.6817e2b96bada23312a89cc62f1a75e0.svg",
+    "static/media/sejal.png": "/static/media/sejal.fbd66682d13214e34b54.png",
     "static/media/fa-brands-400.svg": "/static/media/fa-brands-400.6fcab609e2f62d5c3104.svg",
     "static/media/loader.png": "/static/media/loader.4883584c223a84d1f058.png",
     "static/media/iu_logo.png": "/static/media/iu_logo.35699631e639b9a902e0.png",
@@ -27,7 +27,7 @@
     "static/media/first.png": "/static/media/first.bf638d5f598b5b28796d.png",
     "static/media/fa-solid-900.woff": "/static/media/fa-solid-900.3ef4f1acb44a2df412bf.woff",
     "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
-    "static/media/projects_image.svg": "/static/media/projects_image.1b12f9eadf97fb558889.svg",
+    "static/media/projects_image.svg": "/static/media/projects_image.52f202046156b882a822.svg",
     "static/media/ibm_logo.png": "/static/media/ibm_logo.8204bba7daa4eedf644b.png",
     "static/media/fa-brands-400.woff": "/static/media/fa-brands-400.dc957891d535aa198135.woff",
     "static/media/address.png": "/static/media/address.c546699e504f13416b6d.png",
@@ -54,6 +54,7 @@
     "static/media/jsFramework.svg": "/static/media/jsFramework.911c595a22a28c7b6f78.svg",
     "static/media/experience.svg": "/static/media/experience.c50c576af78a4172f78d.svg",
     "static/media/powerbi.png": "/static/media/powerbi.8636c6b7f1556aeb863f.png",
+    "static/media/first_climate_logo.jpg": "/static/media/first_climate_logo.9e02ea4b3e46d8e0671a.jpg",
     "static/media/fa-regular-400.woff": "/static/media/fa-regular-400.2ccf005a6998d30de3d3.woff",
     "static/media/legato_logo.png": "/static/media/legato_logo.d1109d87b8769eef9949.png",
     "static/media/iiitk_logo.png": "/static/media/iiitk_logo.dd105ab1706238ff159a.png",
@@ -66,11 +67,11 @@
     "static/media/googleAssistant.svg": "/static/media/googleAssistant.1c2312558eb2e5f04a45.svg",
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.018d87225926eee9ccc3.svg",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.7dc8695e60efbc2baab8.svg",
-    "main.8cc88551.css.map": "/static/css/main.8cc88551.css.map",
-    "main.aad79dc0.js.map": "/static/js/main.aad79dc0.js.map"
+    "main.2705c400.css.map": "/static/css/main.2705c400.css.map",
+    "main.6820ef6c.js.map": "/static/js/main.6820ef6c.js.map"
   },
   "entrypoints": [
-    "static/css/main.8cc88551.css",
-    "static/js/main.aad79dc0.js"
+    "static/css/main.2705c400.css",
+    "static/js/main.6820ef6c.js"
   ]
 }
