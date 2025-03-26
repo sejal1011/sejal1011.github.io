@@ -4,7 +4,7 @@ import logoPng from '../../assests/images/loader.png'; // Make sure to replace w
 
 class LogoLoader extends React.Component {
   render() {
-    const theme = this.props.theme;
+    const { theme } = this.props; // Destructure theme from props
     return (
       <div className="logo-container" style={{ textAlign: 'center' }}>
         <img
