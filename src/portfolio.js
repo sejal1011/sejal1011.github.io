@@ -24,9 +24,9 @@ const greeting = {
   logo_name: "SejalManiyar",
   // nickname: "layman_brother",
   subTitle:
-    "Data Engineer specializing in end-to-end data solutions using SQL, Python, and Power BI. I design efficient ETL pipelines and robust data warehouses, while leveraging AI tools to accelerate project delivery and enhance productivity. My expertise spans from data extraction to actionable insights, ensuring faster and smarter decision-making.",
+    "I am a self-driven individual who thrives on contributing to the world of IT. As a passionate data engineer, I excel in tackling diverse projects and crafting end-to-end solutions.",
   resumeLink:
-    "https://drive.google.com/file/d/14xMVNt4aiVAP0LUUdb7xEBAo8iMwlXrP/view?usp=sharing",
+    "https://drive.google.com/file/d/1rmy2KMvtvUiXx_maYmpFoCli30Yr_PrV/view?usp=sharing",
   // portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
   githubProfile: "https://github.com/sejal1011",
 };
@@ -91,7 +91,7 @@ const skills = {
       title: " Database Management",
       fileName: "DataScienceImg",
       skills: [
-        "⚡ Proficient in writing SQL queries and experienced with database software like Oracle, MySQL, and PostgreSQL.",
+        "⚡ Proficient in writing SQL queries and experienced with database software like Oracle, SQL Server, MySQL, and PostgreSQL.",
         "⚡ Skilled in using ETL tools for efficient data processing and adept at creating robust data models.",
         "⚡ Competent in utilizing Excel for complex data analysis, visualization tasks and developing VBA macros.",
       ],
@@ -527,25 +527,10 @@ const experience = {
           title: "Data Engineer",
           company: "First Climate",
           company_url: "https://www.firstclimate.com/",
-          logo_path: "first_climate_logo.png",
+          logo_path: "first_climate_logo.jpg",
           duration: "May 2024 - Present",
           location: "Frankfurt am Main, Germany",
-          description:  [
-            "End-to-End Data Infrastructure Ownership:",
-            "- Solely managed and expanded company's in-house data infrastructure, transitioning from external support to fully independent operations",
-            "- Developed optimized data models, schemas, and database structures enabling efficient data access and analysis",
-            "- Established data governance protocols and documentation standards, reducing reporting errors by 25%",
-            "",
-            "Pipeline Development & Automation:",
-            "- Built and maintained ETL pipelines (Azure Data Factory) for 5+ sources (CRM, JIRA, marketing tools, APIs)",
-            "- Enhanced nightly workflows achieving 99.9% uptime and implemented automated data cleaning/aggregation",
-            "- Led end-to-end API projects including research, documentation, and stakeholder collaboration",
-            "",
-            "Analytics & Stakeholder Collaboration:",
-            "- Designed and deployed 10+ interactive Power BI reports enabling data-driven decision-making",
-            "- Partnered with data scientists to translate complex requirements into scalable solutions",
-            "- Optimized existing pipelines while maintaining comprehensive documentation"
-          ],
+          description: "As a Data Engineer at First Climate, I am responsible for end-to-end ownership of the company’s data infrastructure, having successfully transitioned from external support to fully independent operations. I developed optimized data models, schemas, and database structures, enabling efficient data access and analysis, while also establishing data governance protocols that reduced reporting errors by 25%. I built and maintained ETL pipelines using Azure Data Factory, integrating data from multiple sources like CRM, JIRA, and marketing tools, and automated data cleaning and aggregation processes to achieve 99.9% uptime. Additionally, I led the creation of over 10 interactive Power BI reports that empowered data-driven decision-making, collaborating closely with data scientists to ensure solutions were scalable and aligned with business goals.",
           color: "#2E8B57" // Green color matching First Climate's branding
         },
         {
@@ -765,8 +750,8 @@ const contactPageData = {
   },
   addressSection: {
     title: "Location",
-    subtitle: "Frankfurt, Germany",
-    locality: "Frankfurt",
+    subtitle: "Frankfurt am Main, Germany",
+    locality: "Frankfurt am Main",
     country: "DE",
     region: "Hesse",
     postalCode: "",
