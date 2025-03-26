@@ -24,9 +24,9 @@ const greeting = {
   logo_name: "SejalManiyar",
   // nickname: "layman_brother",
   subTitle:
-    "I am a self-driven individual who thrives on contributing to the world of IT. As a passionate data engineer, I excel in tackling diverse projects and crafting end-to-end solutions.",
+    "Data Engineer specializing in end-to-end data solutions using SQL, Python, and Power BI. I design efficient ETL pipelines and robust data warehouses, while leveraging AI tools to accelerate project delivery and enhance productivity. My expertise spans from data extraction to actionable insights, ensuring faster and smarter decision-making.",
   resumeLink:
-    "https://drive.google.com/file/d/1slokAd1adJn_-6WGxDr5tPRwupuYb8hx/view?usp=sharing",
+    "https://drive.google.com/file/d/14xMVNt4aiVAP0LUUdb7xEBAo8iMwlXrP/view?usp=sharing",
   // portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
   githubProfile: "https://github.com/sejal1011",
 };
@@ -373,6 +373,12 @@ const degrees = {
         "⚡ I have been honored with a Full Tuition Scholarship for my Masters in Data Engineering at Jacobs University, a recognition that attests to my commitment to academic excellence.",
         "⚡ The curriculum for my program encompasses a diverse range of subjects including Machine Learning, Data Analytics, the Big Data Challenge, IT Law, Data Mining, and Data Security and Privacy.",
         "⚡ I have complemented my academic pursuits with 'Werkstudent' opportunities, blending practical data engineering experience into my education.",
+        "",
+        "Master Thesis: Design and Implementation of an Azure-based Solution for Migrating On-Premise Databases to the Cloud",
+        "• Designed automated pipeline for on-premise to cloud database migration",
+        "• Improved data processing performance by 40% using optimized ETL workflows",
+        "• Reduced long-term operational costs by 30% through Azure resource optimization",
+        "• Technologies: Azure Data Factory, Databricks, Synapse, Power BI, Python/SQL",
       ],
       website_link: "https://constructor.university/",
     },
@@ -517,6 +523,31 @@ const experience = {
       title: "Work",
       work: true,
       experiences: [
+        {
+          title: "Data Engineer",
+          company: "First Climate",
+          company_url: "https://www.firstclimate.com/",
+          logo_path: "first_climate_logo.png",
+          duration: "May 2024 - Present",
+          location: "Frankfurt am Main, Germany",
+          description:  [
+            "End-to-End Data Infrastructure Ownership:",
+            "- Solely managed and expanded company's in-house data infrastructure, transitioning from external support to fully independent operations",
+            "- Developed optimized data models, schemas, and database structures enabling efficient data access and analysis",
+            "- Established data governance protocols and documentation standards, reducing reporting errors by 25%",
+            "",
+            "Pipeline Development & Automation:",
+            "- Built and maintained ETL pipelines (Azure Data Factory) for 5+ sources (CRM, JIRA, marketing tools, APIs)",
+            "- Enhanced nightly workflows achieving 99.9% uptime and implemented automated data cleaning/aggregation",
+            "- Led end-to-end API projects including research, documentation, and stakeholder collaboration",
+            "",
+            "Analytics & Stakeholder Collaboration:",
+            "- Designed and deployed 10+ interactive Power BI reports enabling data-driven decision-making",
+            "- Partnered with data scientists to translate complex requirements into scalable solutions",
+            "- Optimized existing pipelines while maintaining comprehensive documentation"
+          ],
+          color: "#2E8B57" // Green color matching First Climate's branding
+        },
         {
           title: "Werkstudent DevOps Engineer",
           company: "Aaron.ai",
@@ -733,16 +764,15 @@ const contactPageData = {
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
-    title: "Address",
-    subtitle:
-      "Fahrenheitstraße 19-25, 28359 Bremen, Germany",
-    locality: "Uni Bremen",
+    title: "Location",
+    subtitle: "Frankfurt, Germany",
+    locality: "Frankfurt",
     country: "DE",
-    region: "Bremen",
-    postalCode: "28359",
-    streetAddress: "Fahrenheitstraße 19-25",
+    region: "Hesse",
+    postalCode: "",
+    streetAddress: "",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://maps.app.goo.gl/djM24oy4SksksoFq8",
+    location_map_link: "https://maps.app.goo.gl/ae5vGfBT9SojYgix5",
   },
   phoneSection: {
     title: "",
